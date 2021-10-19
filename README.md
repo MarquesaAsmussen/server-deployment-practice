@@ -12,6 +12,9 @@ Created by Marquesa Asmussen
 
 ## Links to application deployment
 
+- dev branch deployed [site](https://marquesa-server-deploy-dev.herokuapp.com/)
+- main branch deployed [site](https://marquesa-server-deploy-prod.herokuapp.com/)
+
 ## Include embedded UML
 
 ## Talk about your routes
