@@ -5,6 +5,9 @@ Created by Marquesa Asmussen
 
 ## Installation
 
+- run npm init -y
+- run npm install dotenv express jest
+
 ## Summary of Problem Domain
 
 ## Links to application deployment
